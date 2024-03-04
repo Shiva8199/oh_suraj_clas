@@ -1,0 +1,9 @@
+{
+	"name": "ohsurajclass",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "26166144-8c25-4f3a-b2ad-96360c9f2338",
+		"tenantId": "37347526-783e-4d98-91fc-342a624fbd26"
+	}
+}
